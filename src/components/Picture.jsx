@@ -1,9 +1,16 @@
-const Picture = ({ data }) => {
-  const { src, photographer } = data;
+const Picture = ({ car }) => {
+  const {
+    src: { large },
+    photographer,
+    desc,
+  } = car;
   return (
     <div className="picture">
       <div className="imageContainer">
-        <img src={src.large} alt="img" />
+        <img src={large} alt="img" />
+        <div className="description">
+          <p className="desc">{desc}</p>
+        </div>
       </div>
       <div className="info">
         <p>{photographer}</p>
@@ -11,5 +18,5 @@ const Picture = ({ data }) => {
     </div>
   );
 };
-//
+
 export default Picture;

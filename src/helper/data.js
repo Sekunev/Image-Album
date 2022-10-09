@@ -1,34 +1,40 @@
 const data = [
   {
-    photographer: "Ford Country Squire",
+    photographer: "Cadillac",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
+
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-station-wagons-1024x614.jpg",
+        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-vintage-cars.jpg.webp ",
     },
   },
   {
-    photographer: "Chevrolet Blazer",
+    photographer: "1921 Hudson Super Six phaeton",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-sport-utility-vehicles-1024x1024.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1921_Hudson_Phaeton_AACA_Iowa_2012_fr.jpg/800px-1921_Hudson_Phaeton_AACA_Iowa_2012_fr.jpg",
     },
   },
   {
     photographer: "Chevrolet Corvette ",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
         "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-muscle-cars.jpg",
     },
   },
   {
-    photographer: " Cadillac",
+    photographer: "Ford Country Squire",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-vintage-cars.jpg.webp",
+        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-station-wagons-1024x614.jpg",
     },
   },
   {
     photographer: "Volkswagen Beetle",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
         "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-classic-cars.jpg",
@@ -36,6 +42,7 @@ const data = [
   },
   {
     photographer: "Porsche 911",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
         "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-sports-cars-1024x767.jpg",
@@ -43,215 +50,171 @@ const data = [
   },
   {
     photographer: "Ford Ranchero",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
         "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-coupe-utility-vehicles.jpg",
     },
   },
   {
-    photographer: "Enrique Hoyos",
+    photographer: "1951 Cadillac ",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/The_1951_Cadillac_Classic.jpg",
     },
   },
   {
-    photographer: "Malik Skydsgaard",
+    photographer: "1974 Rolls Royce Silver",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
-      large:
-        "https://images.pexels.com/photos/12132217/pexels-photo-12132217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      large: "http://sainthelenaisland.info/classiccarsstevebiggsandroller.jpg",
     },
   },
   {
-    photographer: "Fidan Nazim qizi",
+    photographer: "1971 Bugatti",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12155886/pexels-photo-12155886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://car-from-uk.com/ebay/carphotos/full/ebay149823624010076.jpg",
     },
   },
   {
-    photographer: "Philip Warp",
+    photographer: "1936 Packard",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12151766/pexels-photo-12151766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7904/535523/790x1024/1936-packard-120",
     },
   },
   {
-    photographer: "Poyee Tsang",
+    photographer: "1933 Ford",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12139617/pexels-photo-12139617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7979/535625/790x1024/1933-ford-coupe",
     },
   },
   {
-    photographer: "Poyee Tsang",
+    photographer: "1969 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7925/526298/790x1024/1969-chevrolet-camaro",
     },
   },
   {
-    photographer: "Blue Arauz",
+    photographer: "2014 Ford Mustang",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12151090/pexels-photo-12151090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7997/535305/790x1024/2014-ford-mustang-roush-stage-3",
     },
   },
   {
-    photographer: "Eugene Golovesov",
+    photographer: "1966 Chevrolet Corvette",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12142950/pexels-photo-12142950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7973/535075/790x1024/1966-chevrolet-corvette",
     },
   },
   {
-    photographer: "Martino Grua",
+    photographer: "1934 Chevrolet Coupe",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12142729/pexels-photo-12142729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7917/526403/790x1024/1934-chevrolet-coupe",
     },
   },
   {
-    photographer: "Malik Skydsgaard",
+    photographer: "1957 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12132204/pexels-photo-12132204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7975/531848/790x1024/1957-chevrolet-210",
     },
   },
   {
-    photographer: "Malik Skydsgaard",
+    photographer: "1962 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12132208/pexels-photo-12132208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7929/526995/790x1024/1962-chevrolet-bel-air",
     },
   },
   {
-    photographer: "Alyona Pastukhova",
+    photographer: "1965 Buick",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12136490/pexels-photo-12136490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7820/520706/790x1024/1965-buick-riviera-gs",
     },
   },
   {
-    photographer: "Rizky Sabriansyah",
+    photographer: "1965 Factory Five Racing",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12128696/pexels-photo-12128696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7985/534257/790x1024/1965-factory-five-racing-cobra",
     },
   },
   {
-    photographer: "Kris Møklebust",
+    photographer: "1966 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12143040/pexels-photo-12143040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7805/523223/790x1024/1966-chevrolet-corvette",
     },
   },
   {
-    photographer: "op23",
+    photographer: "1966 Ford",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12125084/pexels-photo-12125084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7807/517580/790x1024/1966-ford-mustang",
     },
   },
   {
-    photographer: "7inchs",
+    photographer: "1969 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12092806/pexels-photo-12092806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7855/521745/790x1024/1969-chevrolet-c10-pickup-truck",
     },
   },
   {
-    photographer: "Taylor Marx",
+    photographer: "1988 Ferrari 328 GTS",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12089012/pexels-photo-12089012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7804/528657/790x1024/1988-ferrari-328-gts",
     },
   },
   {
-    photographer: "Jair Hernandez",
+    photographer: "1995 Chevrolet",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12087895/pexels-photo-12087895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7878/526934/790x1024/1995-chevrolet-tahoe-ls-4x4",
     },
   },
   {
-    photographer: "Elena Rubtsova",
+    photographer: "2002 Ford Thunderbird",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12082485/pexels-photo-12082485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/7984/532738/790x1024/2002-ford-thunderbird",
     },
   },
   {
-    photographer: "Elena Rubtsova",
+    photographer: "2021 Dodge",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://images.pexels.com/photos/12082493/pexels-photo-12082493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "GEORGE KASCHEEV",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12052041/pexels-photo-12052041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Trinity LaKose",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12050692/pexels-photo-12050692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Omar Zetina",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12046302/pexels-photo-12046302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Withsonya_",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12123082/pexels-photo-12123082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Leah Kelley",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12128380/pexels-photo-12128380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Leah Kelley",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12128383/pexels-photo-12128383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Usman ARJ",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12125024/pexels-photo-12125024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Iury Bessa",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12118868/pexels-photo-12118868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "op23",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12118291/pexels-photo-12118291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.dealeraccelerate.com/rkm/1/8008/534824/790x1024/2021-dodge-challenger-srt-hellcat-redeye",
     },
   },
 ];
 
 export default data;
-console.log(data);
