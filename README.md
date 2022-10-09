@@ -8,7 +8,7 @@ Project aims to create an image gallery app.
 
 ### Visualization of the Website
 
-![image](https://user-images.githubusercontent.com/101554737/194276260-a7d5823d-115c-4822-b001-ae5ea5107689.png)
+![image](https://github.com/Sekunev/Image-Album/blob/main/Animation.gif)
 
 ### Project Skeleton
 
@@ -16,6 +16,7 @@ Project aims to create an image gallery app.
 Image Gellery Project(folder)
 |
 |----readme.md 
+|----Animation.gif
 ├── public
 │     └── index.html
 ├── src
