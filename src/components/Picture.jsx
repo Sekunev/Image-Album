@@ -19,4 +19,4 @@ const Picture = ({ car }) => {
   );
 };
 
-// export default Picture;
+export default Picture;
