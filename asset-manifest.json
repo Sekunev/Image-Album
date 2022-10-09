@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Image-Album/static/css/main.1aba996c.css",
+    "main.js": "/Image-Album/static/js/main.07cf12f3.js",
+    "static/media/constella.ttf": "/Image-Album/static/media/constella.dd8a66f676ac6ffb4552.ttf",
+    "index.html": "/Image-Album/index.html",
+    "main.1aba996c.css.map": "/Image-Album/static/css/main.1aba996c.css.map",
+    "main.07cf12f3.js.map": "/Image-Album/static/js/main.07cf12f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aba996c.css",
+    "static/js/main.07cf12f3.js"
+  ]
+}
