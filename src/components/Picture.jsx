@@ -11,5 +11,5 @@ const Picture = ({ data }) => {
     </div>
   );
 };
-
+//
 export default Picture;
