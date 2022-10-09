@@ -12,9 +12,10 @@ Project aims to create an image gallery app.
 
 ### Project Skeleton
 
-001-Image Gellery Project(folder)
+```
+Image Gellery Project(folder)
 |
-|----readme.md
+|----readme.md 
 ├── public
 │     └── index.html
 ├── src
@@ -29,6 +30,7 @@ Project aims to create an image gallery app.
 │    ├── App.js
 │    ├── index.js
 └── package.json
+```
 
 ### Used in this project
 
