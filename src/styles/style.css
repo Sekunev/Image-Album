@@ -1,5 +1,5 @@
 @font-face {
-  /* font-family: constella; */
+  font-family: constella;
   src: url(./constella.ttf);
 }
 * {
@@ -10,7 +10,7 @@
 }
 
 body {
-  /* font-family: constella; */
+  font-family: constella;
   background: rgb(2, 0, 36);
   background-image: linear-gradient(to top, #e09f13 0%, #dfcdcd 100%);
 }
