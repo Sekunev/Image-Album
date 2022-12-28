@@ -5,7 +5,7 @@ const data = [
 
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-vintage-cars.jpg.webp ",
+        "https://i0.wp.com/www.klasikotom.com/wp-content/uploads/2017/11/1959-CADILLAC-ELDORADO-BIARRITZ-swipelife-1-880x500.jpg?fit=880%2C500&ssl=1",
     },
   },
   {
@@ -21,7 +21,7 @@ const data = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-muscle-cars.jpg",
+        "https://cdn.dealeraccelerate.com/cam/34/984/25394/1920x1440/1968-chevrolet-corvette",
     },
   },
   {
@@ -29,7 +29,7 @@ const data = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-station-wagons-1024x614.jpg",
+        "https://1.bp.blogspot.com/-bE3QwPaVS7Y/YT5K5m5-yQI/AAAAAAAAj5g/jl8bfst7nNwwdWai7tQRpCWJa-2wN9ZxQCLcBGAsYHQ/w1200-h630-p-k-no-nu/1955%2Bwagon.jpg",
     },
   },
   {
@@ -37,7 +37,7 @@ const data = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-classic-cars.jpg",
+        "https://i.pinimg.com/736x/75/64/8c/75648cf00aba16bc74462bffa6593306.jpg",
     },
   },
   {
@@ -45,7 +45,7 @@ const data = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-sports-cars-1024x767.jpg",
+        "https://cdn.motor1.com/images/mgl/A6ZAL/s3/singer-anglet-commission-porsche-911.jpg",
     },
   },
   {
@@ -53,7 +53,7 @@ const data = [
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic id eaque possimus, aliquid eius nam architecto voluptate itaque ducimus.",
     src: {
       large:
-        "https://www.extraspace.com/blog/wp-content/uploads/2020/07/classic-car-types-coupe-utility-vehicles.jpg",
+        "https://cdn.motor1.com/images/mgl/wmeeo/s1/1959-ford-ranchero-is-the-best-of-both-worlds.jpg",
     },
   },
   {
